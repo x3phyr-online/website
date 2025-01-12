@@ -26,18 +26,8 @@ tabWidth = 4
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
-#[[menu.main]]
-#name = "Categories"
-#url = "/categories/"
-#weight = 1
-#[[menu.main]]
-#name = "Tags"
-#url = "/tags/"
-#weight = 2
-#[[menu.feed]]
-#name = "Subscribe"
-#url = "/index.xml"
 
 [params]
 custom_css = ["css/theme-override.css"]
-footer = "[Github](https://github.com/x3phyr-online) | [Githubbbb](https://github.com/x3phyr-online) | [Instagrammmm](https://www.instagram.com/x3phyr.xyz/)"
+
+footer = "[YouTube](https://www.youtube.com/@X3PHYR_XYZ)"

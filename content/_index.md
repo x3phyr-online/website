@@ -3,7 +3,7 @@ title: Home
 description: "The personal website..."
 ---
 
-## Coming soon. :eye: :cat: ⛧
+## Cyber Alchemist
 
 <img src="/images/great_horned_cat.jpg">
 
