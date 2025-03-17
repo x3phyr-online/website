@@ -30,4 +30,4 @@ post = "/post/:year/:month/:day/:slug/"
 [params]
 custom_css = ["css/theme-override.css"]
 
-footer = "[YouTube](https://www.youtube.com/@X3PHYR_XYZ)"
+footer = "[YouTube](https://www.youtube.com/@X3PHYR_XYZ) | [Instagram](https://www.instagram.com/x3phyrrrr/)"
